@@ -4,7 +4,7 @@ import styles from "./page.module.css";
 export default function Home() {
   return (
     <main className={styles.main}>
-      <div className={`${styles.description}`}>Imtiyaz</div>
+      <div className={`${styles.description}`}>Imtiyaz khan</div>
 
       <div className={styles.center}>
         <Image
